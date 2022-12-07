@@ -1,0 +1,13 @@
+
+body{
+    background-color:rgb(111, 111, 98);
+}
+#carouselExampleControls{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+img{
+    width: 500px;
+}
